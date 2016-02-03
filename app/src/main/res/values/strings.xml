@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawableTintSample</string>
+    <string name="set_tint">Set Tint</string>
+    <string name="clear_tint">Clear Tint</string>
+</resources>
